@@ -1,0 +1,2 @@
+git stash (before switchig branch)
+git stash pop (to pop latest stashed changes from stash)
