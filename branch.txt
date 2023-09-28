@@ -2,3 +2,6 @@ git branch (list branchs with head as *)
 git branch branchName (create new branch)
 git switch branchName
 git switch -c branchName (create and switch newBranch)
+
+git branch -d branchName (delete)
+git branch -D branchName (force delete)
