@@ -1,2 +1,7 @@
 git stash (before switchig branch)
 git stash pop (to pop latest stashed changes from stash)
+git stash apply (apply latest stash without poping)
+git stash apply stash@{stash-id}
+git stash drop stash@{stash-id}
+git stash clear
+git stash list
