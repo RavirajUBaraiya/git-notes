@@ -6,4 +6,4 @@ git checkout commit (detached HEAD)
 git checkout HEAD~n (n:previous nth commit)
 git switch - (return to last checkout branch)
 
-git checkout HEAD fileName/s or git checkout -- fileName/s (return to fileName/s to HEAD version: discard latest update and return to HEAD)
+git checkout HEAD fileName/s or git checkout -- fileName/s (restore fileName/s to HEAD version: discard latest update and restore to HEAD)

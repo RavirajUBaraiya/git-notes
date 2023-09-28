@@ -1,0 +1,3 @@
+git restore fileName/s (restore fileName/s to HEAD)
+git restore --sourse HEAD~n fileName/s (restore fileName/s to last nth commit)
+git restore --staged fileName/s (un-staged)
