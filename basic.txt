@@ -1,0 +1,18 @@
+basic cmd:
+pwd
+ls
+ls dirName
+ls -a
+cd
+cd ..
+start .
+start dirName
+touch fileName
+touch fileName1 fileName2
+touch dirName/fileName
+mkdir dirName
+mkdir dirName1 dirName2
+mkdir dirName/sunDirName
+rm fileName
+rm dirName/fileName
+rm -rf dirName
