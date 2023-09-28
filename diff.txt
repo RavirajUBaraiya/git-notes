@@ -1,2 +1,6 @@
 git diff
 git diff HEAD
+git diff --staged
+git diff --cached
+git diff fileName/s
+git diff branch1..branch2
