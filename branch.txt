@@ -1,0 +1,3 @@
+git branch (list branchs with head as *)
+git branch branchName (create new branch)
+git switch branchName
