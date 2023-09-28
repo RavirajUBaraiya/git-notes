@@ -1,0 +1,9 @@
+git checkout branchName (similiar to switch but more)
+git checkout -b branchName (create new branch and checkout)
+
+git checkout commit (detached HEAD)
+
+git checkout HEAD~n (n:previous nth commit)
+git switch - (return to last checkout branch)
+
+git checkout HEAD fileName/s or git checkout -- fileName/s (return to fileName/s to HEAD version: discard latest update and return to HEAD)
