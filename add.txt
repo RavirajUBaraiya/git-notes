@@ -1,0 +1,4 @@
+git add fileName
+git add fileName1 fileName2
+git add .
+git add dirName

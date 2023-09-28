@@ -1,0 +1,4 @@
+git log
+-> q (quit log window)
+git log --pretty
+git log --oneline
