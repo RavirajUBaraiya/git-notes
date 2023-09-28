@@ -1,0 +1,4 @@
+git reset commit-hash (FOR HEAD BRANCH delete commit after commit-hash AND keep unstaged changes)
+git reset HEAD~n
+git reset --hard commit-hash (FOR HEAD BRANCH delete commit AND keep unstaged changes after commit-hash)
+git reset --hard HEAD~n
