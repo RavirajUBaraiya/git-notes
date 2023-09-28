@@ -9,3 +9,5 @@ git branch -D branchName (force delete)
 git branch -m newBranchName (move/rename branch)
 git checkout branchName (similiar to switch but more)
 git checkout -b branchName (create new branch and checkout)
+
+git merge branchName (merge branchName branch to current HEAD branch)
