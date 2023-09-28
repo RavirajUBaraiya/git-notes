@@ -3,4 +3,5 @@ git diff HEAD
 git diff --staged
 git diff --cached
 git diff fileName/s
-git diff branch1..branch2
+git diff branch1..branch2 or git diff branch1 branch2
+git diff commit1..commit2 or git diff commit1 commit2
