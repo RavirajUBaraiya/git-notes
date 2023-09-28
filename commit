@@ -1,8 +1,15 @@
 git add fileName
 git add fileName1 fileName2
 git add .
+git add dirName
+
 
 git commit
+->vim
+-> i (insert)
+write commit massage
+-> esc (escape insert mode)
+-> :wq (write and quit)
 git commit -m "massage"
 
 git log
