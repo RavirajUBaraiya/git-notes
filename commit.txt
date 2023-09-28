@@ -7,3 +7,5 @@ write commit massage
 git commit -m "massage"
 
 git commit -a -m "massage" (add all changes + commit)
+
+git commit --amend (modify latest commit)
