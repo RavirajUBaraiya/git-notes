@@ -16,3 +16,6 @@ mkdir dirName/sunDirName
 rm fileName
 rm dirName/fileName
 rm -rf dirName
+
+ctrl+insert : copy
+shift+insert: paste
