@@ -13,3 +13,4 @@ write commit massage
 git commit -m "massage"
 
 git log
+-> q (quit log window)
