@@ -1,0 +1,2 @@
+git revert commit-hash( create new commit same as commit-hash without deleting other commit)
+git revert HEAD~n 
