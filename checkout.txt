@@ -2,3 +2,6 @@ git checkout branchName (similiar to switch but more)
 git checkout -b branchName (create new branch and checkout)
 
 git checkout commit (detached HEAD)
+
+git checkout HEAD~n (n:previous nth commit)
+git switch -
