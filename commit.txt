@@ -5,3 +5,5 @@ write commit massage
 -> esc (escape insert mode)
 -> :wq (write and quit)
 git commit -m "massage"
+
+git commit -a -m "massage" (add all changes + commit)
