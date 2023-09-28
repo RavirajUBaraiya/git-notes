@@ -4,4 +4,4 @@ git checkout -b branchName (create new branch and checkout)
 git checkout commit (detached HEAD)
 
 git checkout HEAD~n (n:previous nth commit)
-git switch -
+git switch - (return to last checkout branch)
