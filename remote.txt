@@ -1,0 +1,5 @@
+git remote
+git remote -v
+git remote add NameofRemote uslOfGitHubRepo (generally NameofRemote:origin )
+git remote rename OldName NewName
+git remote remove
