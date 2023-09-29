@@ -1,2 +1,5 @@
 git push remote branch (here, branch=localBranch=remoteBranch)
 git push remote localBranch:remoteBranch
+git push -u remote branch (set upstream: local and remote are connected (with same name))
+-> git push (no need to mention remote and branch after -u)
+git push -u remote localBranch:remoteBranch (set upstream of localBranch to remoteBranch)
