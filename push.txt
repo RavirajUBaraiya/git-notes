@@ -1,1 +1,2 @@
-git push remote branch 
+git push remote branch (here, branch=localBranch=remoteBranch)
+git push remote localBranch:remoteBranch
