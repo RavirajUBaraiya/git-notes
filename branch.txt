@@ -6,6 +6,8 @@ git switch -c branchName (create and switch newBranch)
 git branch -d branchName (delete)
 git branch -D branchName (force delete)
 
-git branch -m newBranchName (move/rename branch)
+git branch -M newBranchName (move/rename branch)
 
 git merge branchName (merge branchName branch to current HEAD branch)
+
+git branch -r (remote branch/s)
