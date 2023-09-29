@@ -6,6 +6,6 @@ write commit massage
 -> :wq (write and quit)
 git commit -m "massage"
 
-git commit -a -m "massage" (add all changes + commit)
+#### NOT SURE :git commit -a -m "massage" (add all changes + commit)
 
 git commit --amend (modify latest commit)
