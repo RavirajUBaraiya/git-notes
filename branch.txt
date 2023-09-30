@@ -11,3 +11,5 @@ git branch -M newBranchName (move/rename branch)
 git merge branchName (merge branchName branch to current HEAD branch)
 
 git branch -r (remote branch/s)
+
+git switch branchName (branchName matches remote branch origin/branchName: git create and connects branchName to origin/branchName)
