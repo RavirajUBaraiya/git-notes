@@ -1,0 +1,7 @@
+git fetch (fetch new changes of remote to local: new remoteBranch etc.)
+git fetch remote (fetch all remoteBranchs)
+git fetch remote remoteBranch (fetch specific remoteBranch)
+
+
+git pull remote remoteBranch
+git pull ( same as above for single remote)
